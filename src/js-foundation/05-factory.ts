@@ -30,7 +30,3 @@ export const buildMakePerson = ({ getUUID, getAge }: BuildMakePersonOptions) => 
 // const obj = { name: 'John', birthdate: '1985-10-21' };
 
 // const john = buildPerson( obj );
-
-
-// console.log(john);
-
